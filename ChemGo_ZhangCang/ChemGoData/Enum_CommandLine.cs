@@ -1,0 +1,5 @@
+﻿
+namespace ChemGo_ZhangCang
+{
+
+}

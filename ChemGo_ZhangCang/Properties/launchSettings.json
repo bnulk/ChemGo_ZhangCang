@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "ChemGo_ZhangCang": {
+      "commandName": "Project",
+      "commandLineArgs": "-44",
+      "workingDirectory": "D:\\ChemGo_ZhangCang\\Work"
+    }
+  }
+}
